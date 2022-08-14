@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "1fc320897276a480",
+    "type": "split",
+    "children": [
+      {
+        "id": "76ec931e62f42f66",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fitness/Aug 2022 Q1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "691f533bf13f1ae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6294c23e1ee91080",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aca554eb46d7055d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "044a6ec2a9274594",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41722dfb491e0b7b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4c3b3d6c948e0abd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f67dcbb7cdd6482",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 519.5
+  },
+  "right": {
+    "id": "5fd21da713aecb3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e4bd05adfc8cdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa7661c29c115217",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fitness/Aug 2022 Q1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ace09e77089df31a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fitness/Aug 2022 Q1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba47e3ec8e68c45e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "53a1ed12943164c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de2832a872055e65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fitness/Aug 2022 Q1.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5f67dcbb7cdd6482",
+  "lastOpenFiles": [
+    "Fitness/Templates/Full Body Workout progression.md",
+    "Fitness/Aug 2022 Q1.md",
+    "2022-08-14.md",
+    "Full body workout/Templates/Btuh.md",
+    "Full body workout/Untitled.md",
+    "Workout Progression.md",
+    "Property stuff.md",
+    "Pacific 63 Offer to rent_Aug22.pdf"
+  ]
+}
